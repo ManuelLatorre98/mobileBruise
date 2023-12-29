@@ -1,7 +1,7 @@
 Español: Un modelo basico de aplicacion mobile para reconocimiento de moretones en imagenes por IA, para esto construimos una red convolucional junto con un servidor en python.
 
 English: A basic mobile application model for recognition of bruises in images by AI, for this we build a convolutional network together with a server in python.
-https://github.com/ManuelLatorre98/mobileBruise/assets/71223620/71239eff-f29e-46da-a413-f2fecbbb8197
+VIDEO: https://github.com/ManuelLatorre98/mobileBruise/assets/71223620/71239eff-f29e-46da-a413-f2fecbbb8197
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
